@@ -40,8 +40,7 @@ while i <= 13:
  a = input("Введите число: ")
  n1 = int(a)
  n2 = int(a * 2)
- print (n1 + n2) #можно сделать короче a = int(input("введите число :"))
- 										#print((a*2)+a)
+ print (n1 + n2) 
 
 #10
 Результат:
