@@ -8,7 +8,7 @@ saldo = export - imporT
 if saldo >= 1:
 	print("ваш доход состовляет," + str(saldo))
 else:
-	print("ваш убыток состовляет," + str(saldo)) #если я правильно понял,что такое сальдо...
+	print("ваш убыток состовляет," + str(saldo)) 
 
 #2 среднее число
 a = float(input("введите число a :"))
